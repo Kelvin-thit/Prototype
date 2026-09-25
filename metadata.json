@@ -1,0 +1,6 @@
+{
+  "name": "CreatorXchange",
+  "description": "Two-sided creator matching platform powered by Gemini that turns live Search and YouTube trends into trusted brand partnerships scored on audience trust.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

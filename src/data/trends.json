@@ -1,0 +1,92 @@
+[
+  {
+    "id": "run-club",
+    "name": "Run Club Socials",
+    "category": "Running & Community",
+    "growth_7d": 3.2,
+    "growth_30d": 5.4,
+    "search_interest": 94,
+    "yt_interest": 88,
+    "state": "accelerating",
+    "summary": "Weekend morning running clubs doubling as social hubs and community coffee meetups.",
+    "evidence": [
+      "+320% breakout query 'run club near me singles'",
+      "YouTube vlog uploads with #RunClub up 4.1x in 30 days",
+      "Average watch duration 82% higher than standard fitness vlogs"
+    ],
+    "top_queries": ["morning run club vlog", "run club outfit ideas", "best running shoes for club runs", "beginner 5k pace group"],
+    "audience_vibe": "High trust, social connection, urban young professionals seeking healthy weekend connection."
+  },
+  {
+    "id": "gym-lunch",
+    "name": "Gym Girl Lunch",
+    "category": "Nutrition & Fitness",
+    "growth_7d": 2.4,
+    "growth_30d": 4.1,
+    "search_interest": 89,
+    "yt_interest": 92,
+    "state": "accelerating",
+    "summary": "High-protein, no-cook bento box meals tailored for desk workers hitting mid-day workouts.",
+    "evidence": [
+      "+240% Google Search interest for 'high protein easy desk lunch'",
+      "Shorts/Reels format averaging 1.8M views across 100K-tier creators",
+      "Comment sentiment: 42% asking for macro breakdown or specific grocery brand links"
+    ],
+    "top_queries": ["high protein lunch boxes", "no reheat gym lunch", "50g protein quick meal", "prep in 10 minutes"],
+    "audience_vibe": "Action-oriented, eager to purchase specific protein powders, cottage cheese brands, and glass containers."
+  },
+  {
+    "id": "sunday-reset",
+    "name": "Sunday Reset Routine",
+    "category": "Wellness & Productivity",
+    "growth_7d": 1.8,
+    "growth_30d": 3.2,
+    "search_interest": 91,
+    "yt_interest": 95,
+    "state": "sustained",
+    "summary": "Aesthetic ritual combining meal planning, deep cleaning, hydration prep, and digital detox before Monday.",
+    "evidence": [
+      "Consistent 85-95 peak interest every Sunday morning on YouTube",
+      "Brand recall in comments is 2.3x higher than standard weekday lifestyle vlogs",
+      "Repeat viewer watch-time remains over 65% through sponsored segments"
+    ],
+    "top_queries": ["aesthetic sunday reset", "weekly wellness reset", "grocery restock organization", "hydration station routine"],
+    "audience_vibe": "Calm, aspirational, high propensity to buy home wellness, supplements, and planners."
+  },
+  {
+    "id": "cold-plunge",
+    "name": "Cold Plunge & Contrast Therapy",
+    "category": "Recovery & Biohacking",
+    "growth_7d": 1.4,
+    "growth_30d": 2.8,
+    "search_interest": 78,
+    "yt_interest": 84,
+    "state": "peaking",
+    "summary": "Home ice baths, portable chillers, and sauna contrast recovery rituals taking over amateur athletics.",
+    "evidence": [
+      "+140% search surge for 'portable ice tub reviews' and electrolyte replenishment",
+      "Creators with under 300K subs achieving 12% higher click-through on affiliate codes",
+      "Skeptical comments transitioning into validation and protocol questions"
+    ],
+    "top_queries": ["diy cold tub protocol", "ice bath recovery time", "electrolyte salts contrast therapy", "breathwork for cold water"],
+    "audience_vibe": "Performance-focused, research-driven, willing to spend premium dollars on gear that works."
+  },
+  {
+    "id": "protein-snack-prep",
+    "name": "High-Protein Snack Prep",
+    "category": "Food & Meal Prep",
+    "growth_7d": 2.1,
+    "growth_30d": 3.7,
+    "search_interest": 86,
+    "yt_interest": 89,
+    "state": "accelerating",
+    "summary": "5-ingredient freeze-ahead treats (protein fudge, greek yogurt bark, puffed rice bites) replacing processed bars.",
+    "evidence": [
+      "+210% search volume on YouTube for 'protein snacks without protein powder taste'",
+      "High bookmark and save rate across creator uploads (avg 18% save rate)",
+      "High purchase conversion for clean nut butters, sugar alternatives, and collagen powders"
+    ],
+    "top_queries": ["3 ingredient protein balls", "greek yogurt dessert prep", "healthy sweet tooth snacks", "high protein low sugar"],
+    "audience_vibe": "Practical foodies, wellness shoppers who buy recommended pantry staples immediately."
+  }
+]

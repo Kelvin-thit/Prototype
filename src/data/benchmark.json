@@ -1,0 +1,96 @@
+{
+  "problem_stats": [
+    {
+      "id": "spend-growth",
+      "stat": "1.5x",
+      "label": "Spend Growth",
+      "subtitle": "Year-over-year surge in creator budgets",
+      "description": "Brands are pouring 50% more capital into creator sponsorships ($34B in 2026), yet 78% of partnership leads report declining reach-to-sales efficiency."
+    },
+    {
+      "id": "high-performers",
+      "stat": "15%",
+      "label": "High Performers",
+      "subtitle": "The trusted minority driving actual sales",
+      "description": "Only 15% of sponsored partnerships drive measurable conversions. 85% of budget is lost on vanity reach where audiences tune out or time-skip ads."
+    },
+    {
+      "id": "slow-reaction",
+      "stat": "28 Days",
+      "label": "Too Slow to React",
+      "subtitle": "Average time from trend identification to brief",
+      "description": "Cultural moments peak and saturate within 7 to 10 days. Traditional 9-step agency outreach takes 4 weeks, launching campaigns when the trend has already died."
+    }
+  ],
+  "timed_baseline": {
+    "manual": {
+      "total_seconds": 15120,
+      "total_formatted": "4h 12m",
+      "steps_count": 9,
+      "steps": [
+        { "step": 1, "name": "Trend scouting on TikTok & YouTube Search", "duration": "45 min", "desc": "Manually scrolling hashtags and checking Google Trends interest graphs." },
+        { "step": 2, "name": "Creator discovery & spreadsheet logging", "duration": "55 min", "desc": "Logging 15 creators, follower counts, email addresses, and past sponsors." },
+        { "step": 3, "name": "Vetting sponsored video comment sections", "duration": "60 min", "desc": "Manually reading 50 comments per video to see if audiences skipped the ad." },
+        { "step": 4, "name": "Cold DM & Email outreach", "duration": "30 min", "desc": "Drafting personalized cold emails and finding management agencies." },
+        { "step": 5, "name": "Waiting for replies & agency back-and-forth", "duration": "7 to 12 days", "desc": "Follow-ups, rate card requests, and schedule alignment." },
+        { "step": 6, "name": "Manual brief drafting in Google Docs", "duration": "40 min", "desc": "Writing talking points, dos and don'ts, mood boards, and review windows." },
+        { "step": 7, "name": "Legal redlines & contract negotiations", "duration": "3 to 5 days", "desc": "Exclusivity terms, usage rights, and payment milestone clauses." },
+        { "step": 8, "name": "Content review and revision rounds", "duration": "4 to 7 days", "desc": "Reviewing draft cuts, audio edits, and brand disclosure compliance." },
+        { "step": 9, "name": "Post-campaign manual reporting", "duration": "50 min", "desc": "Exporting affiliate codes, screenshotting views, and estimating sentiment." }
+      ]
+    },
+    "creatorxchange": {
+      "total_seconds": 45,
+      "total_formatted": "45 seconds",
+      "steps_count": 5,
+      "steps": [
+        { "step": 1, "name": "Opportunity Alert", "duration": "Instant", "desc": "Gemini listens to Search & YouTube velocity and surfaces ready-to-pitch matches." },
+        { "step": 2, "name": "Audience Trust Scoring", "duration": "10 sec", "desc": "Audience comment intent mix (purchase vs annoyance) pre-calculated from verified sponsor history." },
+        { "step": 3, "name": "Two-Sided 1-Click Opt-in", "duration": "15 sec", "desc": "Either brand or creator initiates; bilateral interest unlocks mutual campaign room." },
+        { "step": 4, "name": "Gemini Instant Shared Brief", "duration": "12 sec", "desc": "AI generates cultural context, authentic talking points, guardrails, and optimal post window." },
+        { "step": 5, "name": "Activation & Deal Structuring", "duration": "8 sec", "desc": "Algorithmic recommendation for paid_now, test_first, or small_test_bonus." }
+      ]
+    }
+  },
+  "headline_comparison": {
+    "large_creator": {
+      "id": "c02",
+      "name": "Marcus Vance (Apex Fitness Hub)",
+      "subscribers": "2,400,000",
+      "rate_estimate": "$18,000 - $25,000",
+      "trust_score": 31,
+      "authentic_pct": 38,
+      "top_comment_sentiment": "Annoyance / Time-Skip (78%)",
+      "key_quote": "\"Sponsor timestamp at 3:15 guys, skip straight to 4:45 to get past the pitch.\"",
+      "click_through_rate": "0.14%",
+      "conversion_rate": "0.03%",
+      "insight": "Massive reach, but viewers actively resist the ad read. The high fee results in negative or break-even ROI."
+    },
+    "mid_size_creator": {
+      "id": "c01",
+      "name": "Taylor K. (Taylor Runs)",
+      "subscribers": "210,000",
+      "rate_estimate": "$2,500 - $4,000",
+      "trust_score": 82,
+      "authentic_pct": 91,
+      "top_comment_sentiment": "Purchase & Inquiry (48%)",
+      "key_quote": "\"Already ordered using your discount code! The hydration vest fits without bouncing at all.\"",
+      "click_through_rate": "3.82%",
+      "conversion_rate": "1.42%",
+      "insight": "High community trust. Viewers treat recommendations as advice from a peer, generating 4.8x higher total orders at 1/6th the cost."
+    }
+  },
+  "agreement_summary": {
+    "total_evaluated": 100,
+    "human_gemini_agreed": 92,
+    "agreement_rate": "92.0%",
+    "kappa_score": 0.89,
+    "category_breakdown": {
+      "purchase": { "precision": "94.7%", "recall": "90.0%", "count": 20 },
+      "question": { "precision": "92.3%", "recall": "96.0%", "count": 25 },
+      "endorsement": { "precision": "90.0%", "recall": "90.0%", "count": 20 },
+      "annoyance": { "precision": "93.1%", "recall": "96.4%", "count": 28 },
+      "general": { "precision": "85.7%", "recall": "85.7%", "count": 7 }
+    }
+  }
+}

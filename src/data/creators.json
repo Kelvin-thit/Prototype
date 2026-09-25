@@ -1,0 +1,1455 @@
+[
+  {
+    "id": "c01",
+    "name": "Taylor K.",
+    "channel_name": "Taylor Runs",
+    "channel_url": "https://youtube.com/@taylorruns",
+    "subscribers": 210000,
+    "tier": "mid-size",
+    "thumbnail": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&h=300&fit=crop&crop=faces",
+    "category": "Running & Community",
+    "worked_with_brand": false,
+    "opted_in": true,
+    "sponsored_videos_analyzed": 5,
+    "sponsors": [
+      {
+        "brand": "Stride & Co.",
+        "date": "2026-07-24",
+        "video_id": "v_tk_01",
+        "title": "My First 20-Mile Week with Brooklyn Run Club",
+        "sponsor_brand": "Stride & Co.",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "ElectrolyteLab",
+        "date": "2026-06-12",
+        "video_id": "v_tk_02",
+        "title": "What I Eat & Drink to Survive 15 Miles in the Humidity",
+        "sponsor_brand": "ElectrolyteLab",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Tracksmith",
+        "date": "2026-05-01",
+        "video_id": "v_tk_03",
+        "title": "NYC Marathon Training Diary: Week 4 Shakeout",
+        "sponsor_brand": "Tracksmith",
+        "is_repeat_sponsor": false,
+        "is_competitor": true
+      },
+      {
+        "brand": "COROS Wearables",
+        "date": "2026-03-18",
+        "video_id": "v_tk_04",
+        "title": "Pacing My Friends to Their First Sub-2 Half Marathon",
+        "sponsor_brand": "COROS Wearables",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Lululemon Run",
+        "date": "2026-02-09",
+        "video_id": "v_tk_05",
+        "title": "Winter Morning Routine: 6am Miles in the Cold",
+        "sponsor_brand": "Lululemon Run",
+        "is_repeat_sponsor": false,
+        "is_competitor": true
+      }
+    ],
+    "scores": {
+      "reception": 82,
+      "fit": 76,
+      "lead_time_days": 11,
+      "authentic_pct": 91
+    },
+    "intent_mix": {
+      "question": 0.34,
+      "endorsement": 0.22,
+      "purchase": 0.14,
+      "annoyance": 0.30
+    },
+    "evidence_comments": [
+      {
+        "text": "Already ordered using your discount code! The hydration vest fits without bouncing at all.",
+        "label": "purchase",
+        "timestamp": "2 days ago",
+        "likes": 64
+      },
+      {
+        "text": "Taylor, does the berry flavor dissolve easily in cold water or do you need a shaker?",
+        "label": "question",
+        "timestamp": "3 days ago",
+        "likes": 28
+      },
+      {
+        "text": "I trust your shoe recommendations more than actual running magazines honestly.",
+        "label": "endorsement",
+        "timestamp": "1 week ago",
+        "likes": 91
+      },
+      {
+        "text": "Sponsored segments usually feel cringe but you actually wore them for 20 miles first haha.",
+        "label": "endorsement",
+        "timestamp": "2 weeks ago",
+        "likes": 47
+      }
+    ],
+    "ad_analysis": {
+      "style": "story-woven",
+      "avg_length_sec": 38,
+      "placement": "mid-roll",
+      "insight": "Integrates product mid-run while catching breath at a stoplight or post-run coffee. Highly conversational, zero corporate script tone.",
+      "segments": [
+        {
+          "video_id": "v_tk_01",
+          "start": "2:14",
+          "end": "2:52"
+        },
+        {
+          "video_id": "v_tk_02",
+          "start": "4:05",
+          "end": "4:43"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c02",
+    "name": "Marcus Vance",
+    "channel_name": "Apex Fitness Hub",
+    "channel_url": "https://youtube.com/@apexfitnesshub",
+    "subscribers": 2400000,
+    "tier": "large",
+    "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=faces",
+    "category": "Gym & Hypertrophy",
+    "worked_with_brand": true,
+    "opted_in": false,
+    "sponsored_videos_analyzed": 5,
+    "sponsors": [
+      {
+        "brand": "NordVPN",
+        "date": "2026-08-11",
+        "video_id": "v_mv_01",
+        "title": "The REAL Reason Your Chest Isn't Growing (Fix This)",
+        "sponsor_brand": "NordVPN",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Manscaped",
+        "date": "2026-07-19",
+        "video_id": "v_mv_02",
+        "title": "I Did 10,000 Pushups in 30 Days (Physique Results)",
+        "sponsor_brand": "Manscaped",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Factor Meals",
+        "date": "2026-06-25",
+        "video_id": "v_mv_03",
+        "title": "Full Day of Eating for Shredded Abs",
+        "sponsor_brand": "Factor Meals",
+        "is_repeat_sponsor": false,
+        "is_competitor": false
+      },
+      {
+        "brand": "Gymshark",
+        "date": "2026-05-14",
+        "video_id": "v_mv_04",
+        "title": "Back Workout That Added 3 Inches to My Lats",
+        "sponsor_brand": "Gymshark",
+        "is_repeat_sponsor": false,
+        "is_competitor": true
+      },
+      {
+        "brand": "AG1",
+        "date": "2026-04-02",
+        "video_id": "v_mv_05",
+        "title": "Morning Routine of a 220lb Natural Bodybuilder",
+        "sponsor_brand": "AG1",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      }
+    ],
+    "scores": {
+      "reception": 31,
+      "fit": 48,
+      "lead_time_days": 34,
+      "authentic_pct": 38
+    },
+    "intent_mix": {
+      "question": 0.08,
+      "endorsement": 0.11,
+      "purchase": 0.03,
+      "annoyance": 0.78
+    },
+    "evidence_comments": [
+      {
+        "text": "Sponsor timestamp at 3:15 guys, skip straight to 4:45 to get past the pitch.",
+        "label": "annoyance",
+        "timestamp": "4 days ago",
+        "likes": 512
+      },
+      {
+        "text": "Another video, another VPN ad read... can you do a video without a 2 minute teleprompter read?",
+        "label": "annoyance",
+        "timestamp": "1 week ago",
+        "likes": 340
+      },
+      {
+        "text": "Does anyone actually buy these meal kits? They look so dry.",
+        "label": "question",
+        "timestamp": "2 weeks ago",
+        "likes": 88
+      },
+      {
+        "text": "Skip to 5:00 for the workout",
+        "label": "annoyance",
+        "timestamp": "3 weeks ago",
+        "likes": 890
+      }
+    ],
+    "ad_analysis": {
+      "style": "hard-pivot",
+      "avg_length_sec": 92,
+      "placement": "pre-content mid-roll",
+      "insight": "Abrupt stop in narrative with sudden sponsor slide and script reading. High retention drop-off (~34% skip ahead 90 seconds).",
+      "segments": [
+        {
+          "video_id": "v_mv_01",
+          "start": "3:15",
+          "end": "4:47"
+        },
+        {
+          "video_id": "v_mv_02",
+          "start": "1:30",
+          "end": "3:02"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c03",
+    "name": "Maya Lin",
+    "channel_name": "Maya's Kitchen Lab",
+    "channel_url": "https://youtube.com/@mayaskitchenlab",
+    "subscribers": 380000,
+    "tier": "mid-size",
+    "thumbnail": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&h=300&fit=crop&crop=faces",
+    "category": "Nutrition & Meal Prep",
+    "worked_with_brand": false,
+    "opted_in": true,
+    "sponsored_videos_analyzed": 4,
+    "sponsors": [
+      {
+        "brand": "Caraway Home",
+        "date": "2026-08-04",
+        "video_id": "v_ml_01",
+        "title": "5 High-Protein Bento Lunches for the Entire Week",
+        "sponsor_brand": "Caraway Home",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Vital Proteins",
+        "date": "2026-06-29",
+        "video_id": "v_ml_02",
+        "title": "What I Eat in a Week: 140g Protein Desk Worker Edition",
+        "sponsor_brand": "Vital Proteins",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Primal Kitchen",
+        "date": "2026-05-15",
+        "video_id": "v_ml_03",
+        "title": "Clean Dressings & Sauces That Actually Taste Restaurant Quality",
+        "sponsor_brand": "Primal Kitchen",
+        "is_repeat_sponsor": false,
+        "is_competitor": false
+      },
+      {
+        "brand": "Oats Overnight",
+        "date": "2026-03-22",
+        "video_id": "v_ml_04",
+        "title": "My 10-Minute Morning Routine When I Don't Want to Cook",
+        "sponsor_brand": "Oats Overnight",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      }
+    ],
+    "scores": {
+      "reception": 88,
+      "fit": 92,
+      "lead_time_days": 8,
+      "authentic_pct": 94
+    },
+    "intent_mix": {
+      "question": 0.41,
+      "endorsement": 0.26,
+      "purchase": 0.21,
+      "annoyance": 0.12
+    },
+    "evidence_comments": [
+      {
+        "text": "Just ordered the stainless steel container set through your link! Exactly what I needed for my office bag.",
+        "label": "purchase",
+        "timestamp": "1 day ago",
+        "likes": 53
+      },
+      {
+        "text": "Can I swap the Greek yogurt for lactose-free cottage cheese in the protein dip?",
+        "label": "question",
+        "timestamp": "4 days ago",
+        "likes": 31
+      },
+      {
+        "text": "I make your Wednesday lunch recipe every single week now. You never miss.",
+        "label": "endorsement",
+        "timestamp": "1 week ago",
+        "likes": 112
+      }
+    ],
+    "ad_analysis": {
+      "style": "story-woven",
+      "avg_length_sec": 42,
+      "placement": "integrated-demo",
+      "insight": "Prepares lunch using the sponsored cookware or ingredient live on camera; shows how it looks inside real lunch bag.",
+      "segments": [
+        {
+          "video_id": "v_ml_01",
+          "start": "3:20",
+          "end": "4:02"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c04",
+    "name": "Brett Henderson",
+    "channel_name": "Brett Trains",
+    "channel_url": "https://youtube.com/@bretttrains",
+    "subscribers": 1650000,
+    "tier": "large",
+    "thumbnail": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300&h=300&fit=crop&crop=faces",
+    "category": "CrossFit & Conditioning",
+    "worked_with_brand": false,
+    "opted_in": false,
+    "sponsored_videos_analyzed": 5,
+    "sponsors": [
+      {
+        "brand": "C4 Energy",
+        "date": "2026-08-15",
+        "video_id": "v_bh_01",
+        "title": "I Tried the World's Hardest CrossFit WOD (I Threw Up)",
+        "sponsor_brand": "C4 Energy",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Rogue Fitness",
+        "date": "2026-07-10",
+        "video_id": "v_bh_02",
+        "title": "Building a $50,000 Home Gym in My Garage",
+        "sponsor_brand": "Rogue Fitness",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Liquid I.V.",
+        "date": "2026-06-03",
+        "video_id": "v_bh_03",
+        "title": "24-Hour Military Endurance Test",
+        "sponsor_brand": "Liquid I.V.",
+        "is_repeat_sponsor": false,
+        "is_competitor": false
+      },
+      {
+        "brand": "Whoop",
+        "date": "2026-04-18",
+        "video_id": "v_bh_04",
+        "title": "My Sleep Recovery After 7 Days of Two-A-Days",
+        "sponsor_brand": "Whoop",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Raycon Earbuds",
+        "date": "2026-02-28",
+        "video_id": "v_bh_05",
+        "title": "Gym Playlist vs Heavy Squats Challenge",
+        "sponsor_brand": "Raycon Earbuds",
+        "is_repeat_sponsor": false,
+        "is_competitor": false
+      }
+    ],
+    "scores": {
+      "reception": 42,
+      "fit": 55,
+      "lead_time_days": 28,
+      "authentic_pct": 52
+    },
+    "intent_mix": {
+      "question": 0.12,
+      "endorsement": 0.18,
+      "purchase": 0.05,
+      "annoyance": 0.65
+    },
+    "evidence_comments": [
+      {
+        "text": "Every workout channel has the same energy drink sponsor read lol.",
+        "label": "annoyance",
+        "timestamp": "5 days ago",
+        "likes": 210
+      },
+      {
+        "text": "The Raycon plug felt completely out of nowhere while you were hitting a deadlift pr.",
+        "label": "annoyance",
+        "timestamp": "2 weeks ago",
+        "likes": 145
+      },
+      {
+        "text": "What shoes are you wearing at 8:12?",
+        "label": "question",
+        "timestamp": "1 month ago",
+        "likes": 34
+      }
+    ],
+    "ad_analysis": {
+      "style": "hard-pivot",
+      "avg_length_sec": 75,
+      "placement": "mid-roll",
+      "insight": "High volume ad placement with scripted talking points. Audience displays high banner blindness and time-skips.",
+      "segments": [
+        {
+          "video_id": "v_bh_01",
+          "start": "4:10",
+          "end": "5:25"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c05",
+    "name": "Elena Rostova",
+    "channel_name": "Elena's Reset",
+    "channel_url": "https://youtube.com/@elenasreset",
+    "subscribers": 440000,
+    "tier": "mid-size",
+    "thumbnail": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=300&h=300&fit=crop&crop=faces",
+    "category": "Wellness & Productivity",
+    "worked_with_brand": false,
+    "opted_in": true,
+    "sponsored_videos_analyzed": 5,
+    "sponsors": [
+      {
+        "brand": "Notion",
+        "date": "2026-08-20",
+        "video_id": "v_er_01",
+        "title": "My Complete Sunday Reset: Deep Clean & Weekly Organization",
+        "sponsor_brand": "Notion",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Theragun",
+        "date": "2026-07-14",
+        "video_id": "v_er_02",
+        "title": "Evening Wind-Down: Stretching, Tea & Muscle Recovery",
+        "sponsor_brand": "Theragun",
+        "is_repeat_sponsor": false,
+        "is_competitor": false
+      },
+      {
+        "brand": "Dyson Home",
+        "date": "2026-06-08",
+        "video_id": "v_er_03",
+        "title": "Aesthetic Apartment Clean with Me (Sunday Morning)",
+        "sponsor_brand": "Dyson Home",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Pique Life",
+        "date": "2026-04-30",
+        "video_id": "v_er_04",
+        "title": "Replacing Coffee with Ceremonial Matcha: 30 Day Update",
+        "sponsor_brand": "Pique Life",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Our Place",
+        "date": "2026-03-12",
+        "video_id": "v_er_05",
+        "title": "Sunday Soup Prep for Cozy Evenings",
+        "sponsor_brand": "Our Place",
+        "is_repeat_sponsor": false,
+        "is_competitor": false
+      }
+    ],
+    "scores": {
+      "reception": 89,
+      "fit": 90,
+      "lead_time_days": 10,
+      "authentic_pct": 95
+    },
+    "intent_mix": {
+      "question": 0.36,
+      "endorsement": 0.31,
+      "purchase": 0.22,
+      "annoyance": 0.11
+    },
+    "evidence_comments": [
+      {
+        "text": "Bought the matcha starter kit with Elena's code and it's already my favorite part of the morning.",
+        "label": "purchase",
+        "timestamp": "3 days ago",
+        "likes": 88
+      },
+      {
+        "text": "Elena your Sunday resets cure my Sunday scaries every week. Where is the linen robe from?",
+        "label": "question",
+        "timestamp": "5 days ago",
+        "likes": 64
+      },
+      {
+        "text": "I downloaded your template and bought the journal, feeling so organized for September!",
+        "label": "purchase",
+        "timestamp": "1 week ago",
+        "likes": 120
+      }
+    ],
+    "ad_analysis": {
+      "style": "story-woven",
+      "avg_length_sec": 45,
+      "placement": "mid-roll",
+      "insight": "Soft, calm pacing. Products are seamlessly embedded into natural morning lighting and ASMR audio. 0% user frustration in comments.",
+      "segments": [
+        {
+          "video_id": "v_er_01",
+          "start": "4:12",
+          "end": "4:57"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c06",
+    "name": "Jordan Bell",
+    "channel_name": "Jordan Paces",
+    "channel_url": "https://youtube.com/@jordanpaces",
+    "subscribers": 175000,
+    "tier": "mid-size",
+    "thumbnail": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=300&h=300&fit=crop&crop=faces",
+    "category": "Running & Community",
+    "worked_with_brand": false,
+    "opted_in": true,
+    "sponsored_videos_analyzed": 3,
+    "sponsors": [
+      {
+        "brand": "Ciele Athletics",
+        "date": "2026-08-01",
+        "video_id": "v_jb_01",
+        "title": "Summer Run Club Sunset Miles & Post-Run Tacos",
+        "sponsor_brand": "Ciele Athletics",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Hoka One One",
+        "date": "2026-06-18",
+        "video_id": "v_jb_02",
+        "title": "Testing the Mach 6 on a 16-Mile Tempo Run",
+        "sponsor_brand": "Hoka One One",
+        "is_repeat_sponsor": false,
+        "is_competitor": true
+      },
+      {
+        "brand": "Skratch Labs",
+        "date": "2026-04-25",
+        "video_id": "v_jb_03",
+        "title": "The Only Hydration Mix That Doesn't Upset My Stomach",
+        "sponsor_brand": "Skratch Labs",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      }
+    ],
+    "scores": {
+      "reception": 85,
+      "fit": 84,
+      "lead_time_days": 9,
+      "authentic_pct": 92
+    },
+    "intent_mix": {
+      "question": 0.38,
+      "endorsement": 0.24,
+      "purchase": 0.17,
+      "annoyance": 0.21
+    },
+    "evidence_comments": [
+      {
+        "text": "Grabbed the Ciele hat after watching you wear it in the pouring rain last vlog. Peak durability!",
+        "label": "purchase",
+        "timestamp": "4 days ago",
+        "likes": 32
+      },
+      {
+        "text": "How does the sizing run on that windbreaker? True to size or size up for layering?",
+        "label": "question",
+        "timestamp": "1 week ago",
+        "likes": 19
+      }
+    ],
+    "ad_analysis": {
+      "style": "story-woven",
+      "avg_length_sec": 35,
+      "placement": "mid-roll",
+      "insight": "High community engagement. Creator runs local 50-person weekly meetup and directly answers viewer questions in comments.",
+      "segments": [
+        {
+          "video_id": "v_jb_01",
+          "start": "1:55",
+          "end": "2:30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c07",
+    "name": "Dr. Sarah Chen",
+    "channel_name": "Longevity & Cold",
+    "channel_url": "https://youtube.com/@sarahchenmd",
+    "subscribers": 310000,
+    "tier": "mid-size",
+    "thumbnail": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300&h=300&fit=crop&crop=faces",
+    "category": "Recovery & Biohacking",
+    "worked_with_brand": false,
+    "opted_in": true,
+    "sponsored_videos_analyzed": 4,
+    "sponsors": [
+      {
+        "brand": "Plunge Co.",
+        "date": "2026-08-10",
+        "video_id": "v_sc_01",
+        "title": "Cold Water Immersion: The Neurological Data Explained",
+        "sponsor_brand": "Plunge Co.",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "LMNT Electrolytes",
+        "date": "2026-07-02",
+        "video_id": "v_sc_02",
+        "title": "Sodium vs Potassium Balance During Heat & Sauna Stress",
+        "sponsor_brand": "LMNT Electrolytes",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Oura Ring",
+        "date": "2026-05-19",
+        "video_id": "v_sc_03",
+        "title": "How Cold Showers Actually Impact Deep Sleep Cycles",
+        "sponsor_brand": "Oura Ring",
+        "is_repeat_sponsor": false,
+        "is_competitor": false
+      },
+      {
+        "brand": "Therabody",
+        "date": "2026-03-30",
+        "video_id": "v_sc_04",
+        "title": "Pneumatic Compression Boots: Placebo or Real Recovery?",
+        "sponsor_brand": "Therabody",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      }
+    ],
+    "scores": {
+      "reception": 91,
+      "fit": 88,
+      "lead_time_days": 14,
+      "authentic_pct": 96
+    },
+    "intent_mix": {
+      "question": 0.45,
+      "endorsement": 0.28,
+      "purchase": 0.18,
+      "annoyance": 0.09
+    },
+    "evidence_comments": [
+      {
+        "text": "Ordered the citrus LMNT pack after your explanation of sodium lost during sauna sessions. Love the science!",
+        "label": "purchase",
+        "timestamp": "2 days ago",
+        "likes": 77
+      },
+      {
+        "text": "Is 3 minutes at 50 degrees sufficient for dopamine elevation or do you recommend lower temps?",
+        "label": "question",
+        "timestamp": "6 days ago",
+        "likes": 42
+      }
+    ],
+    "ad_analysis": {
+      "style": "story-woven",
+      "avg_length_sec": 50,
+      "placement": "contextual-evidence",
+      "insight": "Grounds the brand in clinical trial summaries and personal biomarkers. Extremely high audience trust and zero fluff.",
+      "segments": [
+        {
+          "video_id": "v_sc_01",
+          "start": "5:10",
+          "end": "6:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c08",
+    "name": "Kai Thorne",
+    "channel_name": "Kai Thorne Live",
+    "channel_url": "https://youtube.com/@kaithorne",
+    "subscribers": 3100000,
+    "tier": "large",
+    "thumbnail": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=300&h=300&fit=crop&crop=faces",
+    "category": "Gym & Hypertrophy",
+    "worked_with_brand": false,
+    "opted_in": false,
+    "sponsored_videos_analyzed": 5,
+    "sponsors": [
+      {
+        "brand": "Raid Shadow Legends",
+        "date": "2026-08-05",
+        "video_id": "v_kt_01",
+        "title": "I Survived 48 Hours in an Underground Gym",
+        "sponsor_brand": "Raid Shadow Legends",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "BetterHelp",
+        "date": "2026-07-12",
+        "video_id": "v_kt_02",
+        "title": "Opening Up About Burnout in the Fitness Industry",
+        "sponsor_brand": "BetterHelp",
+        "is_repeat_sponsor": false,
+        "is_competitor": false
+      },
+      {
+        "brand": "HelloFresh",
+        "date": "2026-06-19",
+        "video_id": "v_kt_03",
+        "title": "Cooking with 5 Bodybuilders (Chaos)",
+        "sponsor_brand": "HelloFresh",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "YoungLA",
+        "date": "2026-05-02",
+        "video_id": "v_kt_04",
+        "title": "Insane $10,000 Fitness Wardrobe Haul",
+        "sponsor_brand": "YoungLA",
+        "is_repeat_sponsor": true,
+        "is_competitor": true
+      },
+      {
+        "brand": "Ghost Lifestyle",
+        "date": "2026-03-14",
+        "video_id": "v_kt_05",
+        "title": "Maxing Out on 600mg Caffeine Preworkout",
+        "sponsor_brand": "Ghost Lifestyle",
+        "is_repeat_sponsor": false,
+        "is_competitor": true
+      }
+    ],
+    "scores": {
+      "reception": 27,
+      "fit": 39,
+      "lead_time_days": 42,
+      "authentic_pct": 31
+    },
+    "intent_mix": {
+      "question": 0.05,
+      "endorsement": 0.08,
+      "purchase": 0.02,
+      "annoyance": 0.85
+    },
+    "evidence_comments": [
+      {
+        "text": "Raid ad again... just use SponsorBlock extension and skip 1:20 to 2:45.",
+        "label": "annoyance",
+        "timestamp": "3 days ago",
+        "likes": 980
+      },
+      {
+        "text": "Can we get one video without an unskippable mobile game pitch?",
+        "label": "annoyance",
+        "timestamp": "1 week ago",
+        "likes": 420
+      },
+      {
+        "text": "The transition from talking about mental health to HelloFresh was wild.",
+        "label": "annoyance",
+        "timestamp": "2 weeks ago",
+        "likes": 612
+      }
+    ],
+    "ad_analysis": {
+      "style": "hard-pivot",
+      "avg_length_sec": 85,
+      "placement": "pre-roll / mid-roll",
+      "insight": "High view counts but extremely low brand trust. Audience actively upvotes comments providing skip timestamps.",
+      "segments": [
+        {
+          "video_id": "v_kt_01",
+          "start": "1:20",
+          "end": "2:45"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c09",
+    "name": "Nia Morales",
+    "channel_name": "Nia's High-Protein Bite",
+    "channel_url": "https://youtube.com/@niashighprotein",
+    "subscribers": 285000,
+    "tier": "mid-size",
+    "thumbnail": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&h=300&fit=crop&crop=faces",
+    "category": "Food & Meal Prep",
+    "worked_with_brand": false,
+    "opted_in": true,
+    "sponsored_videos_analyzed": 4,
+    "sponsors": [
+      {
+        "brand": "PEScience",
+        "date": "2026-08-08",
+        "video_id": "v_nm_01",
+        "title": "3 Freeze-Ahead Protein Bark Snacks (No Chalky Taste)",
+        "sponsor_brand": "PEScience",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Ninja Kitchen",
+        "date": "2026-07-04",
+        "video_id": "v_nm_02",
+        "title": "Testing the Creami Deluxe for 30g Protein Ice Cream",
+        "sponsor_brand": "Ninja Kitchen",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Chobani",
+        "date": "2026-05-20",
+        "video_id": "v_nm_03",
+        "title": "Why Whole Milk Greek Yogurt Beats Non-Fat Every Time",
+        "sponsor_brand": "Chobani",
+        "is_repeat_sponsor": false,
+        "is_competitor": false
+      },
+      {
+        "brand": "Lakanto Monkfruit",
+        "date": "2026-04-11",
+        "video_id": "v_nm_04",
+        "title": "Baking High Protein Cinnamon Rolls Without Sugar Crashes",
+        "sponsor_brand": "Lakanto Monkfruit",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      }
+    ],
+    "scores": {
+      "reception": 87,
+      "fit": 91,
+      "lead_time_days": 10,
+      "authentic_pct": 93
+    },
+    "intent_mix": {
+      "question": 0.39,
+      "endorsement": 0.27,
+      "purchase": 0.19,
+      "annoyance": 0.15
+    },
+    "evidence_comments": [
+      {
+        "text": "Made the protein bark yesterday with the vanilla powder you linked. My kids ate the whole tray!",
+        "label": "purchase",
+        "timestamp": "2 days ago",
+        "likes": 56
+      },
+      {
+        "text": "Can you use plant-based protein powder in this ratio or does it need more almond milk?",
+        "label": "question",
+        "timestamp": "4 days ago",
+        "likes": 34
+      }
+    ],
+    "ad_analysis": {
+      "style": "story-woven",
+      "avg_length_sec": 40,
+      "placement": "mid-roll",
+      "insight": "Shows direct culinary results with macro calculation on screen. High save rate and immediate purchase conversion.",
+      "segments": [
+        {
+          "video_id": "v_nm_01",
+          "start": "2:30",
+          "end": "3:10"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c10",
+    "name": "Sammy Delgado",
+    "channel_name": "Sunday Reset with Sammy",
+    "channel_url": "https://youtube.com/@sammydelgado",
+    "subscribers": 340000,
+    "tier": "mid-size",
+    "thumbnail": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=300&h=300&fit=crop&crop=faces",
+    "category": "Wellness & Productivity",
+    "worked_with_brand": false,
+    "opted_in": true,
+    "sponsored_videos_analyzed": 3,
+    "sponsors": [
+      {
+        "brand": "Simplehuman",
+        "date": "2026-08-18",
+        "video_id": "v_sd_01",
+        "title": "Resetting My Entire Kitchen for a Productive Week",
+        "sponsor_brand": "Simplehuman",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Clevr Blends",
+        "date": "2026-06-21",
+        "video_id": "v_sd_02",
+        "title": "The Superfood Latte Routine That Replaced My 3pm Coffee",
+        "sponsor_brand": "Clevr Blends",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Brooklinen",
+        "date": "2026-04-14",
+        "video_id": "v_sd_03",
+        "title": "Fresh Sheet Sunday & Bedroom Transformation",
+        "sponsor_brand": "Brooklinen",
+        "is_repeat_sponsor": false,
+        "is_competitor": false
+      }
+    ],
+    "scores": {
+      "reception": 86,
+      "fit": 85,
+      "lead_time_days": 12,
+      "authentic_pct": 92
+    },
+    "intent_mix": {
+      "question": 0.33,
+      "endorsement": 0.29,
+      "purchase": 0.20,
+      "annoyance": 0.18
+    },
+    "evidence_comments": [
+      {
+        "text": "Ordered the sleep chai after your discount code! Literally drinking it right now while watching this.",
+        "label": "purchase",
+        "timestamp": "1 day ago",
+        "likes": 44
+      },
+      {
+        "text": "Where is that glass frother from Sammy? It looks so chic.",
+        "label": "question",
+        "timestamp": "4 days ago",
+        "likes": 18
+      }
+    ],
+    "ad_analysis": {
+      "style": "story-woven",
+      "avg_length_sec": 38,
+      "placement": "mid-roll",
+      "insight": "Gentle acoustic audio under ad integrations. Feels like receiving a recommendation from a roommate rather than an ad.",
+      "segments": [
+        {
+          "video_id": "v_sd_01",
+          "start": "3:40",
+          "end": "4:18"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c11",
+    "name": "Coach Trevor Hall",
+    "channel_name": "Trevor Runs Far",
+    "channel_url": "https://youtube.com/@trevorrunsfar",
+    "subscribers": 195000,
+    "tier": "mid-size",
+    "thumbnail": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=300&h=300&fit=crop&crop=faces",
+    "category": "Running & Community",
+    "worked_with_brand": false,
+    "opted_in": true,
+    "sponsored_videos_analyzed": 4,
+    "sponsors": [
+      {
+        "brand": "Maurten",
+        "date": "2026-08-02",
+        "video_id": "v_th_01",
+        "title": "Marathon Fueling Protocol: Gels vs Solid Chews Tested",
+        "sponsor_brand": "Maurten",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Bandit Running",
+        "date": "2026-06-25",
+        "video_id": "v_th_02",
+        "title": "Hosting 120 Runners at Our Morning 6-Mile Shakeout",
+        "sponsor_brand": "Bandit Running",
+        "is_repeat_sponsor": true,
+        "is_competitor": true
+      },
+      {
+        "brand": "Shokz Headphones",
+        "date": "2026-05-12",
+        "video_id": "v_th_03",
+        "title": "Open-Ear Headphones for Running on City Streets (Safety Test)",
+        "sponsor_brand": "Shokz Headphones",
+        "is_repeat_sponsor": false,
+        "is_competitor": false
+      },
+      {
+        "brand": "Garmin Fitness",
+        "date": "2026-03-10",
+        "video_id": "v_th_04",
+        "title": "Why I Switched from Apple Watch Ultra to Forerunner 265",
+        "sponsor_brand": "Garmin Fitness",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      }
+    ],
+    "scores": {
+      "reception": 84,
+      "fit": 88,
+      "lead_time_days": 11,
+      "authentic_pct": 93
+    },
+    "intent_mix": {
+      "question": 0.42,
+      "endorsement": 0.23,
+      "purchase": 0.16,
+      "annoyance": 0.19
+    },
+    "evidence_comments": [
+      {
+        "text": "Coach Trevor's discount code saved me $30 on the hydrogel box. Ready for Chicago Marathon!",
+        "label": "purchase",
+        "timestamp": "5 days ago",
+        "likes": 51
+      },
+      {
+        "text": "Do you take the caffeine gel at mile 18 or earlier?",
+        "label": "question",
+        "timestamp": "1 week ago",
+        "likes": 30
+      }
+    ],
+    "ad_analysis": {
+      "style": "story-woven",
+      "avg_length_sec": 42,
+      "placement": "mid-roll",
+      "insight": "High credibility coach tone. Explains physiological mechanics of why he uses the gear.",
+      "segments": [
+        {
+          "video_id": "v_th_01",
+          "start": "4:00",
+          "end": "4:42"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c12",
+    "name": "Chloe Bennett",
+    "channel_name": "Chloe Glow Lifestyle",
+    "channel_url": "https://youtube.com/@chloeglow",
+    "subscribers": 1820000,
+    "tier": "large",
+    "thumbnail": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=300&h=300&fit=crop&crop=faces",
+    "category": "Wellness & Productivity",
+    "worked_with_brand": false,
+    "opted_in": false,
+    "sponsored_videos_analyzed": 5,
+    "sponsors": [
+      {
+        "brand": "Casetify",
+        "date": "2026-08-12",
+        "video_id": "v_cb_01",
+        "title": "Fall Clean & Reset With Me 2026",
+        "sponsor_brand": "Casetify",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Shein Haul",
+        "date": "2026-07-22",
+        "video_id": "v_cb_02",
+        "title": "Huge 50 Item Workout Set Try-On Haul",
+        "sponsor_brand": "Shein Haul",
+        "is_repeat_sponsor": false,
+        "is_competitor": true
+      },
+      {
+        "brand": "Bloom Nutrition",
+        "date": "2026-06-15",
+        "video_id": "v_cb_03",
+        "title": "My Everyday Morning Detox Green Drink",
+        "sponsor_brand": "Bloom Nutrition",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Express VPN",
+        "date": "2026-05-01",
+        "video_id": "v_cb_04",
+        "title": "Traveling Solo Across Europe: What Happened",
+        "sponsor_brand": "Express VPN",
+        "is_repeat_sponsor": false,
+        "is_competitor": false
+      },
+      {
+        "brand": "Function of Beauty",
+        "date": "2026-03-25",
+        "video_id": "v_cb_05",
+        "title": "Everything Shower Routine for Hair Growth",
+        "sponsor_brand": "Function of Beauty",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      }
+    ],
+    "scores": {
+      "reception": 38,
+      "fit": 51,
+      "lead_time_days": 31,
+      "authentic_pct": 42
+    },
+    "intent_mix": {
+      "question": 0.11,
+      "endorsement": 0.14,
+      "purchase": 0.04,
+      "annoyance": 0.71
+    },
+    "evidence_comments": [
+      {
+        "text": "The Bloom greens ad is literally in every single girl's vlog... none of you actually drink this stuff off camera.",
+        "label": "annoyance",
+        "timestamp": "4 days ago",
+        "likes": 440
+      },
+      {
+        "text": "Skip to 3:45 to get past the phone case ad read.",
+        "label": "annoyance",
+        "timestamp": "1 week ago",
+        "likes": 290
+      }
+    ],
+    "ad_analysis": {
+      "style": "hard-pivot",
+      "avg_length_sec": 78,
+      "placement": "mid-roll",
+      "insight": "Repetitive generic sponsors that don't match the authentic aesthetic. High comment cynicism regarding product effectiveness.",
+      "segments": [
+        {
+          "video_id": "v_cb_01",
+          "start": "2:30",
+          "end": "3:48"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c13",
+    "name": "Dr. Lucas Ortiz",
+    "channel_name": "Kinetic Performance Lab",
+    "channel_url": "https://youtube.com/@lucasortizdpt",
+    "subscribers": 260000,
+    "tier": "mid-size",
+    "thumbnail": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?w=300&h=300&fit=crop&crop=faces",
+    "category": "Recovery & Biohacking",
+    "worked_with_brand": false,
+    "opted_in": true,
+    "sponsored_videos_analyzed": 4,
+    "sponsors": [
+      {
+        "brand": "Hyperice",
+        "date": "2026-08-07",
+        "video_id": "v_lo_01",
+        "title": "Vibration vs Heat for Lower Back Tightness (Physical Therapist Review)",
+        "sponsor_brand": "Hyperice",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Barefoot Shoes Co.",
+        "date": "2026-06-30",
+        "video_id": "v_lo_02",
+        "title": "Do Wide Toe Box Shoes Prevent Plantar Fasciitis?",
+        "sponsor_brand": "Barefoot Shoes Co.",
+        "is_repeat_sponsor": true,
+        "is_competitor": true
+      },
+      {
+        "brand": "Thorne Supplements",
+        "date": "2026-05-18",
+        "video_id": "v_lo_03",
+        "title": "Magnesium Glycinate vs Threonate for Deep Muscle Relaxation",
+        "sponsor_brand": "Thorne Supplements",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Rogue Fitness",
+        "date": "2026-03-29",
+        "video_id": "v_lo_04",
+        "title": "Tibialis Raise Bars: Worth It for Runner Knee Rehab?",
+        "sponsor_brand": "Rogue Fitness",
+        "is_repeat_sponsor": false,
+        "is_competitor": false
+      }
+    ],
+    "scores": {
+      "reception": 90,
+      "fit": 89,
+      "lead_time_days": 13,
+      "authentic_pct": 95
+    },
+    "intent_mix": {
+      "question": 0.44,
+      "endorsement": 0.27,
+      "purchase": 0.21,
+      "annoyance": 0.08
+    },
+    "evidence_comments": [
+      {
+        "text": "Purchased the Thorne magnesium after watching your deep dive on sleep EEG data. Waking up with way less calf soreness!",
+        "label": "purchase",
+        "timestamp": "3 days ago",
+        "likes": 84
+      },
+      {
+        "text": "Dr. Lucas, would you recommend the heated massage belt for acute hamstring strains or only chronic tightness?",
+        "label": "question",
+        "timestamp": "1 week ago",
+        "likes": 39
+      }
+    ],
+    "ad_analysis": {
+      "style": "story-woven",
+      "avg_length_sec": 48,
+      "placement": "clinical-breakdown",
+      "insight": "Physical therapist demonstration on real anatomical models. Viewers treat recommendations as trusted medical/rehab counsel.",
+      "segments": [
+        {
+          "video_id": "v_lo_01",
+          "start": "4:45",
+          "end": "5:33"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c14",
+    "name": "Zack Miller",
+    "channel_name": "Zack Miller Strength",
+    "channel_url": "https://youtube.com/@zackmillerstrength",
+    "subscribers": 1420000,
+    "tier": "large",
+    "thumbnail": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=300&h=300&fit=crop&crop=faces",
+    "category": "Gym & Hypertrophy",
+    "worked_with_brand": false,
+    "opted_in": false,
+    "sponsored_videos_analyzed": 5,
+    "sponsors": [
+      {
+        "brand": "Gorilla Mind",
+        "date": "2026-08-14",
+        "video_id": "v_zm_01",
+        "title": "Why Everyone Is Doing Romanian Deadlifts Wrong",
+        "sponsor_brand": "Gorilla Mind",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "SBD Apparel",
+        "date": "2026-07-08",
+        "video_id": "v_zm_02",
+        "title": "700lb Deadlift Training Camp: Day 14",
+        "sponsor_brand": "SBD Apparel",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Squarespace",
+        "date": "2026-05-24",
+        "video_id": "v_zm_03",
+        "title": "Launching My Coaching App (Behind the Scenes)",
+        "sponsor_brand": "Squarespace",
+        "is_repeat_sponsor": false,
+        "is_competitor": false
+      },
+      {
+        "brand": "MyProtein",
+        "date": "2026-04-16",
+        "video_id": "v_zm_04",
+        "title": "Budget Bulking: 4,000 Calories for $8 a Day",
+        "sponsor_brand": "MyProtein",
+        "is_repeat_sponsor": false,
+        "is_competitor": true
+      },
+      {
+        "brand": "Manscaped",
+        "date": "2026-02-19",
+        "video_id": "v_zm_05",
+        "title": "Answering Your Uncomfortable Lifting Questions",
+        "sponsor_brand": "Manscaped",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      }
+    ],
+    "scores": {
+      "reception": 45,
+      "fit": 58,
+      "lead_time_days": 27,
+      "authentic_pct": 54
+    },
+    "intent_mix": {
+      "question": 0.15,
+      "endorsement": 0.19,
+      "purchase": 0.06,
+      "annoyance": 0.60
+    },
+    "evidence_comments": [
+      {
+        "text": "Every fitness guy has the same 3 sponsors on rotation haha.",
+        "label": "annoyance",
+        "timestamp": "4 days ago",
+        "likes": 180
+      },
+      {
+        "text": "Skip to 3:10 for the actual deadlift cue.",
+        "label": "annoyance",
+        "timestamp": "2 weeks ago",
+        "likes": 260
+      }
+    ],
+    "ad_analysis": {
+      "style": "hard-pivot",
+      "avg_length_sec": 70,
+      "placement": "mid-roll",
+      "insight": "High volume fitness entertainment. Good lift demonstrations but ad engagement suffers from audience ad fatigue.",
+      "segments": [
+        {
+          "video_id": "v_zm_01",
+          "start": "2:00",
+          "end": "3:10"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c15",
+    "name": "Brooke & Cole",
+    "channel_name": "The Reset Duo",
+    "channel_url": "https://youtube.com/@theresetduo",
+    "subscribers": 360000,
+    "tier": "mid-size",
+    "thumbnail": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=300&h=300&fit=crop&crop=faces",
+    "category": "Nutrition & Meal Prep",
+    "worked_with_brand": false,
+    "opted_in": true,
+    "sponsored_videos_analyzed": 4,
+    "sponsors": [
+      {
+        "brand": "Stanley 1913",
+        "date": "2026-08-16",
+        "video_id": "v_bc_01",
+        "title": "Couple's Sunday Prep: Hydration Stations & 5 Dinners",
+        "sponsor_brand": "Stanley 1913",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Athletic Greens",
+        "date": "2026-07-06",
+        "video_id": "v_bc_02",
+        "title": "Our Realistic 6:30am Morning Routine as Hybrid Workers",
+        "sponsor_brand": "Athletic Greens",
+        "is_repeat_sponsor": false,
+        "is_competitor": false
+      },
+      {
+        "brand": "Stasher Bags",
+        "date": "2026-05-28",
+        "video_id": "v_bc_03",
+        "title": "Freezer Prep Snack Hacks That Save Us $150 a Week",
+        "sponsor_brand": "Stasher Bags",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      },
+      {
+        "brand": "Nutribullet",
+        "date": "2026-04-03",
+        "video_id": "v_bc_04",
+        "title": "3 Smoothie Packs You Can Freeze in Advance",
+        "sponsor_brand": "Nutribullet",
+        "is_repeat_sponsor": true,
+        "is_competitor": false
+      }
+    ],
+    "scores": {
+      "reception": 85,
+      "fit": 87,
+      "lead_time_days": 10,
+      "authentic_pct": 91
+    },
+    "intent_mix": {
+      "question": 0.35,
+      "endorsement": 0.28,
+      "purchase": 0.18,
+      "annoyance": 0.19
+    },
+    "evidence_comments": [
+      {
+        "text": "Bought the reusable silicone bags with your bundle link, no more freezer burn on my smoothie fruits!",
+        "label": "purchase",
+        "timestamp": "3 days ago",
+        "likes": 49
+      },
+      {
+        "text": "How do you wash the corners without tearing them?",
+        "label": "question",
+        "timestamp": "6 days ago",
+        "likes": 21
+      }
+    ],
+    "ad_analysis": {
+      "style": "story-woven",
+      "avg_length_sec": 41,
+      "placement": "mid-roll",
+      "insight": "Dual-host conversational rhythm creates very relatable dynamic. Viewers comment on genuine enthusiasm for pantry gear.",
+      "segments": [
+        {
+          "video_id": "v_bc_01",
+          "start": "3:10",
+          "end": "3:51"
+        }
+      ]
+    }
+  }
+]
